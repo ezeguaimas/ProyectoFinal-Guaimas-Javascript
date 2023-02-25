@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    color: darkred;
+}
+
+h2{
+    text-align: center;
+}
+
+#mensajeError{
+    text-align: center;
+    font-style: italic;
+    color: greenyellow;
+}
+
+#globalContainer{
+    background-color: cadetblue;
+    overflow: hidden;
+}
+#contenedorProductos, #busqueda{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items: center;
+    width: 100%;
+    justify-content: space-evenly;
+    overflow: hidden;
+
+    div{
+        margin: 5px;
+        padding: 3px;
+ 
+    }
+}
+#cardBody{
+    background-color:aliceblue;
+}
+.card-imagen{
+    width:15em;
+    height: 15em;
+    align-self: center;
+}
+.card-precio{
+    color: red;
+}
+#icono-carrito{
+    width:3em;
+    height: 3em;
+    align-self: center;   
+}
+#span-carrito{
+    margin: 5px;
+    padding: 5px;
+}
+#navbar-imagen{
+    width: 50%;
+}
+.navPropia{
+    a{
+        color:blueviolet;
+        font-weight: 500 ;
+        
+        &:hover {
+          transition: all 0.4s;
+          color: darkgreen;
+        }
+
+    }
+}
+#cardItem{
+    &:hover {
+        transform: scale(1.05);
+        transition: all 0.4s;
+        filter: brightness(1.05);
+      }
+}
+#navbar-imagen{
+    &:hover {
+        transform: scale(1.05);
+        transition: all 0.4s;
+        filter: saturate(2);
+ 
+      }
+}
+#agregarProducto{
+    margin: 5rem;
+    .form-titulo{
+        text-align: center;
+    }
+}
+
+#carritoAbajo{
+    margin-inline: 10rem;
+    overflow: hidden;
+    max-width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#img-carrito{
+    width: 5em;
+    height: 5em;
+    align-self: center;   
+}
+
+.img-basura{
+    margin: 2em;
+    width: 2em;
+    height: 2em;
+    align-self: center;   
+}
+
+#li-carrito{
+    align-items: center;
+}
+#comprar{
+    margin-inline: 10rem;
+    overflow: hidden;
+    max-width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: right;
+}
+#carrito-total{
+    align-self: end;
+}
+#btn-comprar{
+    max-width: 50%;
+    align-self: center;
+}
+
+#cardPaymentBrick_container{
+    margin: 10%;
+}

@@ -1,0 +1,218 @@
+[
+    {
+        "codigo": "1",
+        "tipo": "PANTALON",
+        "color": "AMARILLO",
+        "talle": "S",
+        "stock": 4,
+        "precio": 4000,
+        "foto": "https://thumbs.dreamstime.com/b/el-retrato-de-la-mujer-joven-moda-se-visti-en-pantalones-amarillos-vestida-fondo-rosado-148215893.jpg"
+    },
+    {
+        "codigo": "2",
+        "tipo": "PANTALON",
+        "color": "NEGRO",
+        "talle": "M",
+        "stock": 6,
+        "precio": 3500,
+        "foto": "https://i.pinimg.com/originals/fe/4b/41/fe4b414022650a8c870f256951599834.jpg"
+    },
+    {
+        "codigo": "3",
+        "tipo": "REMERA",
+        "color": "BLANCO",
+        "talle": "M",
+        "stock": 8,
+        "precio": 2500,
+        "foto": "https://i.pinimg.com/550x/aa/e5/31/aae5310bb7af7bf1d514a78ed307c214.jpg"
+    },
+    {
+        "codigo": "4",
+        "tipo": "MEDIAS",
+        "color": "BLANCO",
+        "talle": "L",
+        "stock": 20,
+        "precio": 1000,
+        "foto": "https://i.pinimg.com/474x/55/58/08/555808ade1c6580b1c3a75ec5cc80c64.jpg"
+    },
+    {
+        "codigo": "5",
+        "tipo": "CAMPERA",
+        "color": "AZUL",
+        "talle": "S",
+        "stock": 3,
+        "precio": 7000,
+        "foto": "https://i.pinimg.com/736x/22/63/eb/2263ebabe5df0732cd1482388f63a0ad.jpg"
+    },
+    {
+        "codigo": "6",
+        "tipo": "CAMPERA",
+        "color": "NEGRO",
+        "talle": "L",
+        "stock": 7,
+        "precio": 8000,
+        "foto": "https://i.pinimg.com/736x/c4/65/2d/c4652d4bd07393bcc9520d7802d76aec.jpg"
+    },
+    {
+        "codigo": "7",
+        "tipo": "BOXER",
+        "color": "ROJO",
+        "talle": "L",
+        "stock": 10,
+        "precio": 2000,
+        "foto": "https://i.pinimg.com/originals/3e/57/b7/3e57b7cd0a533e211e48b3d1c25221b3.jpg"
+    },
+    {
+        "codigo": "8",
+        "tipo": "VESTIDO",
+        "color": "NARANJA",
+        "talle": "S",
+        "stock": 2,
+        "precio": 15000,
+        "foto": "https://i.pinimg.com/550x/a6/71/7f/a6717f216414b653dfdf8e8043500b59.jpg"
+    },
+    {
+        "codigo": "9",
+        "tipo": "VESTIDO",
+        "color": "ROSA",
+        "talle": "M",
+        "stock": 4,
+        "precio": 20000,
+        "foto": "https://i.pinimg.com/originals/16/79/d7/1679d7ae3c569101846368dc77def497.jpg"
+    },
+    {
+        "codigo": "10",
+        "tipo": "SWEATER",
+        "color": "BEIGE",
+        "talle": "L",
+        "stock": 4,
+        "precio": 6000,
+        "foto": "https://i.pinimg.com/736x/8e/1f/7e/8e1f7ee62e506bc02f8f61fb6804f776--cable-knit-sweaters-fashion-fall.jpg"
+    },
+    {
+        "codigo": "11",
+        "tipo": "REMERA",
+        "color": "NEGRO",
+        "talle": "L",
+        "stock": 9,
+        "precio": 2500,
+        "foto": "https://i.pinimg.com/736x/1e/a7/f5/1ea7f5850d93a727db8145ed18ca3ac8.jpg"
+    },
+    {
+        "codigo": "12",
+        "tipo": "CAMISA",
+        "color": "VERDE",
+        "talle": "M",
+        "stock": 3,
+        "precio": 7500,
+        "foto": "https://i.pinimg.com/originals/82/cb/59/82cb597440f60c4def8ee7a004d9a358.jpg"
+    },
+    {
+        "codigo": "13",
+        "tipo": "CAMISA",
+        "color": "ROJO",
+        "talle": "L",
+        "stock": 4,
+        "precio": 7500,
+        "foto": "https://i.pinimg.com/564x/12/4b/d2/124bd27991ddf677ebffbd5fa495027f--asos-fashion-fashion-finder.jpg"
+    },
+    {
+        "codigo": "14",
+        "tipo": "GORRA",
+        "color": "ROJO",
+        "talle": "S",
+        "stock": 5,
+        "precio": 4000,
+        "foto": "https://i.pinimg.com/564x/60/75/b3/6075b3decf56efe5dbedef0f3d2933b1.jpg"
+    },
+    {
+        "codigo": "15",
+        "tipo": "CINTO",
+        "color": "NEGRO",
+        "talle": "M",
+        "stock": 4,
+        "precio": 8000,
+        "foto": "https://i.pinimg.com/736x/d8/94/28/d894282af85e679a20257117f39cc055.jpg"
+    },
+    {
+        "codigo": "16",
+        "tipo": "PAÑUELO",
+        "color": "BLANCO",
+        "talle": "L",
+        "stock": 7,
+        "precio": 2500,
+        "foto": "https://i.pinimg.com/564x/4a/f4/1c/4af41cf5d47d53a061bf1187e19cf5e9.jpg"
+    },
+    {
+        "codigo": "17",
+        "tipo": "BUFANDA",
+        "color": "NEGRO",
+        "talle": "S",
+        "stock": 6,
+        "precio": 3000,
+        "foto": "https://i.pinimg.com/564x/5c/0c/24/5c0c2419c59afc21ea08bc4ceecd1673.jpg"
+    },
+    {
+        "codigo": "18",
+        "tipo": "CHALECO",
+        "color": "AMARILLO",
+        "talle": "L",
+        "stock": 7,
+        "precio": 4500,
+        "foto": "https://i.pinimg.com/564x/eb/31/4a/eb314a4c817f6b622ba18d7094f0fc8c.jpg"
+    },
+    {
+        "codigo": "19",
+        "tipo": "POLLERA",
+        "color": "AMARILLO",
+        "talle": "M",
+        "stock": 3,
+        "precio": 4000,
+        "foto": "https://i.pinimg.com/564x/cf/6e/ce/cf6ecec8749bb20de23dc3b405ff0689.jpg"
+    },
+    {
+        "codigo": "20",
+        "tipo": "CAMISA",
+        "color": "NEGRO",
+        "talle": "S",
+        "stock": 4,
+        "precio": 7000,
+        "foto": "https://i.pinimg.com/564x/84/5f/e4/845fe4e09b34a9ddbfdcbd204b511a4f.jpg"
+    },
+    {
+        "codigo": "21",
+        "tipo": "BOXER",
+        "color": "NEGRO",
+        "talle": "L",
+        "stock": 8,
+        "precio": 2000,
+        "foto": "https://d22fxaf9t8d39k.cloudfront.net/3c89e8575ac5d1dfc3f7a9645882fa2dda0877c13474fb9cce02c805f90684f712766.jpeg"
+    },
+    {
+        "codigo": "22",
+        "tipo": "MEDIAS",
+        "color": "VERDE",
+        "talle": "S",
+        "stock": 6,
+        "precio": 1500,
+        "foto": "https://i.pinimg.com/564x/55/95/f2/5595f2ef007cff343ee0aad2acbd2ead.jpg"
+    },
+    {
+        "codigo": "23",
+        "tipo": "PULLOVER",
+        "color": "ROSA",
+        "talle": "S",
+        "stock": 3,
+        "precio": 5000,
+        "foto": "https://i.pinimg.com/564x/83/c9/8e/83c98eeaab7ad1648a9c4ad9f07bd724.jpg"
+    },
+    {
+        "codigo": "54",
+        "tipo": "BIKINI",
+        "color": "AZUL",
+        "talle": "S",
+        "stock": 5,
+        "precio": 1200,
+        "foto": "https://i.pinimg.com/564x/b8/c4/93/b8c4939f22e8881ff21da574ea0ceac1.jpg"
+    }
+]
